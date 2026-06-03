@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-clouds: #fff8e7;
+  --color-clear-skies: #8cc1e9;
+  --color-deep-ocean: #12284b;
+  --color-blueberry: #0055a0;
+  --color-bluebird: #438bc4;
+}
